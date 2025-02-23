@@ -98,8 +98,8 @@ streamlit run streamlit_ui.py
 
 ## Known Issues
 
-- The solution does not work well on `data (20).pdf` due to complex table structures or formatting inconsistencies.
+- The solution does not work well on `data (20).pdf`.
 
 ## Conclusion
 
-This solution efficiently extracts financial data from PDFs while handling text and table parsing challenges. Using `LlamaParse` for structured extraction and `Google Gemini AI` for financial insights ensures accuracy and usability. Future improvements may involve integrating **OCR for scanned PDFs** and enhancing table extraction logic for better structure preservation.
+This solution efficiently extracts financial data from PDFs while handling text and table parsing challenges. Using `LlamaParse` for structured extraction and `Google Gemini AI` for financial insights ensures accuracy and usability. 
